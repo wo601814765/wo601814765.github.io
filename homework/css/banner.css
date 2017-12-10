@@ -127,9 +127,10 @@
 }
 #video {
 	width: 1920px;
-	height: 550px;
+	height: 500px;
 	background-color: #F2F2F2;
 	background-image: url(../images/images/images/back_04_04.png);
+	padding-top:30px;
 }
 
 
