@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../style.css"rel="stylesheet"type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="../css/banner.css">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>网页设计作品</title>
+<!-- TemplateEndEditable -->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+a:link {
+color:inherit;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color:inherit;
+}
+a:hover {
+text-decoration: none;
+color:#999999;
+}
+a:active {
+text-decoration: none;
+color:inherit;
+}
+-->
+</style>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrap">
+<div id="header"> 
+<div id="top">
+<a href="http://jwc.tynu.edu.cn/">登陆</a>&nbsp;帮助&nbsp;加入收藏&nbsp;</div>
+<div id="top_logo">
+<img src="../images/logo/first_logo.png" width="647" height="155" /></div>
+<div id="menu">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="#">网站首页</a>
+      <ul>
+        <li><a href="#">校园新闻</a></li>
+        <li><a href="#">通知通告</a></li>
+      </ul>
+    </li>
+       <li><a href="#" class="MenuBarItemSubmenu">学校概况</a>
+      <ul>
+        <li><a href="#">学院简介</a></li>
+        <li><a href="#">政党领导</a></li>
+        <li><a href="#">历史沿革</a></li>
+        <li><a href="#">校徽校歌校训</a></li>
+        <li><a href="#">师院印象</a></li>
+      </ul>
+    </li>
+    <li><a href="#">院系设置</a>      </li>
+    <li><a href="#" class="MenuBarItemSubmenu">教育教学</a>
+      <ul>
+        <li><a href="#">研究生教育</a></li>
+        <li><a href="#">本科教育</a></li>
+        <li><a href="#">继续教育</a></li>
+      </ul>
+    </li>
+    <li><a href="#" class="MenuBarItemSubmenu">科学研究</a>
+      <ul>
+        <li><a href="#">科研成果</a></li>
+        <li><a href="#">科研项目</a></li>
+        <li><a href="#">学科建设</a></li>
+        <li><a href="#">学术动态</a></li>
+      </ul>
+    </li>
+    <li><a href="#" class="MenuBarItemSubmenu">招生就业</a>
+      <ul>
+        <li><a href="#">研究生招生就业</a></li>
+        <li><a href="#">本科招生就业</a></li>
+        <li><a href="#">继续教育</a></li>
+      </ul>
+    </li>
+    <li><a class="MenuBarItemSubmenu" href="#">人事人才</a>
+      <ul>
+        <li><a href="#">学科带头人</a></li>
+        <li><a href="#">博士队伍</a></li>
+        <li><a href="#">研究生导师</a></li>
+        <li><a href="#">人才招聘</a></li>
+      </ul>
+    </li>
+    <li><a href="#" class="MenuBarItemSubmenu">校园文化</a>
+      <ul>
+        <li><a href="#">校园活动</a></li>
+        <li><a href="#">学子风采</a></li>
+        <li><a href="#">教工文化生活</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div id="picture">
+<div class="banner" id="banner1" style="margin: 50px auto; top: 5px;">
+		<div class="banner-view"></div>
+		<div class="banner-btn"></div>
+		<div class="banner-number"></div>
+		<div class="banner-progres"></div>
+	</div>	
+<script type="text/javascript" src="../js/banner.js"></script>
+<script type="text/javascript">
+	var banner = new FragmentBanner({
+		container : "#banner1",//选择容器 必选
+		imgs:['images/turn/turn01.jpg','images/turn/turn02.jpg','images/turn/turn03.jpg','images/turn/turn04.jpg','images/turn/turn05.jpg'],
+		size : {
+			width : 1920,
+			height : 720
+		},//容器的大小 可选
+		//行数与列数 可选
+		grid : {
+			line : 12,
+			list : 14
+		},
+		index: 0,//图片集合的索引位置 可选
+		type : 1,//切换类型 1 ， 2 可选
+		boxTime : 1,
+		fnTime : 100000000
+	});
+</script>
+</div>
+</div>
+
+<div id="content">
+<div id="allnotice">
+<div class="center1">
+<div class="center2">"<table width="1220" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="407" height="40">公告<span>&nbsp;&nbsp;NOTICE</span></td>
+      <td width="406"height="40">要闻<span>&nbsp;&nbsp;IMPORTANT NEWS</span></td>
+      <td width="406"height="40">校内日程</td>
+    </tr>
+    <tr>
+      <td><table width="92%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="21.8%" height="117"><img src="../images/date/date01.jpg" width="65" height="65" /></td>
+          <td width="78.2%"  height="117"><p>教学与管理杂志印刷服务（2018年</p>
+            <div>
+              <p>教学与管理杂志印刷服务（2018）年招标文件经太原师范学院领导批准学与管理杂志社</p>
+            </div></td>
+        </tr>
+        <tr>
+          <td height="116"><img src="../images/date/date02.jpg" width="65" height="65" /></td>
+          <td height="116"><p>太原师范学院新校区西区体育操场
+            </p>
+            <div>太原师范学院新校区西区体育操场辅助区人造草坪采购与铺装项目招标条<strong>件</strong>太原师范学            </div></td>
+        </tr>
+        <tr>
+          <td height="116"><img src="../images/date/date03.jpg" width="65" height="65" /></td>
+          <td height="116"><p>太原师范学院2017年公开招聘管理
+            </p>
+            <div>太原师范学院2017年公开招聘管理岗拟录用人员名单公示根据《太原师f范学院<span lang="EN-US" xml:lang="EN-US">2017</span>年</div></td>
+        </tr>
+        <tr>
+          <td height="116"><img src="../images/date/date04.jpg" width="65" height="65" /></td>
+          <td height="116"><p>2017年太原师范学院中秋节日慰问
+           </p>
+            <div>2017年太原师范学院中秋节日慰问品供应公司资格遴选公告为进一步规范工会经费大额</div></td>
+        </tr>
+        <tr>
+          <td height="116"><img src="../images/date/date05.jpg" width="65" height="65" /></td>
+          <td height="116"><p>太原师范学院2017级新生入学报到
+            </p>
+            <div>新生凭录取通知书于9月15日（星期五）报到，报到时间为7:00－18:00（中午不休息</div></td>
+        </tr>
+      </table></td>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td  ><img src="../images/content_01.jpg" width="371" height="287"/></td>
+  </tr>
+  <tr>
+    <td height="245"><div id="yaowen"><ul type="disc">
+    <li>院长梁吉业一行深入省内相关企业调研<br />
+      &nbsp;</li>
+      <li>党委书记张惠元一行赴浙江大学、浙江师范大学调研<br />&nbsp;</li>
+      <li>党委副书记程太生与团省委书记黄巍会面<br />&nbsp;</li>
+      <li>心连心化肥有限公司副总经理一行赴我校山西省腐...<br />&nbsp;</li>
+      
+     <li> 我校汾河流域藻类污水防治及资源化利用重点创新...<br />&nbsp;<br />&nbsp;</li></ul></div>
+      </td>
+  </tr>
+</table>
+</td>
+      <td align="center"><img src="../images/date/date06.jpg" width="335" height="350" /></td>
+    </tr>
+  </table></div></div>
+</div>
+
+<div id="zhaosheng">
+<div class="center1">
+<p><img src="../images/logo/logo_zs.jpg" width="246" height="67" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+   <table width="1220" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left"><img src="../images/content_02.jpg"align="left"/></td>
+   <td align="center"> <img src="../images/content_03.jpg" />
+     </td><td align="right"><img src="../images/content_04.jpg"/>
+</td>
+  </tr>
+</table>
+</div>
+</div>
+
+<div id="zonghexinwen">
+<div class="center1">
+<div class="center2">
+<table width="1220" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="66.6%"><p><img src="../images/logo/logo_zhxw.png" width="257" height="67" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
+          <td>&nbsp;</td>
+    <td width="33.3%"><img src="../images/logo/logo_kydt.png" width="292" height="67" /></td>
+
+  </tr>
+  <tr>
+    <td><div><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="33.3%"><div><img src="../images/content_05.jpg" width="255" height="172" /></div>
+          <p><span>中共太原师范学院委...</span></p>
+          <p>&nbsp; </p>
+          <div>
+            <p>12月5日上午，中国共产党太原师范学</p>
+          <p>&nbsp;</p>
+          <p>院第二届委员会第六次全体会议在致</p>
+      </div>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" height="72">忻州师院党委书记王亦农、院长张虎芳一行莅临我校调研</td>
+        <td>&nbsp;</td>
+    <td width="50%">我校举行教育扶贫个人资助账户募捐活动</td>
+
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="72">省社科联党组书记王蕾一行莅临我校调研</td>
+          <td>&nbsp;</td>
+    <td>省政协副主席朱先奇莅临我校调研指导工作</td>
+>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="72">我校学生荣获2017山西省大学生校园歌手大赛冠军</td>
+      <td>&nbsp;</td>
+    <td>校领导到晋中市陌上美术馆参观调研</td>
+    <td>&nbsp;</td>
+
+  </tr>
+  <tr>
+    <td height="72">省人大常委会副主任张茂才一行莅临我校调研</td>
+      <td>&nbsp;</td>
+    <td>我校第一届音乐节圆满落幕</td>
+    <td>&nbsp;</td>
+
+  </tr>
+</table>
+</td>
+     
+      </tr>
+    </table></div></td>     <td width="3%">&nbsp;</td>
+    <td width="30%"><div><ul>
+    <li>科研处邀请山西大学复杂系统研究所所长靳祯教授来我校<br />
+      &nbsp;</li>
+      <li>书法系邀请南京艺术学院朱友舟教授来我校做学术讲座<br />&nbsp;</li>
+      <li>文学院邀请中国社会科学院文学研究所吴子林研究员来我校做学术讲座<br />&nbsp;</li>
+      <li>地理科学学院邀请太原市教研科研中心薛光辉老师来我校做学术讲座<br />&nbsp;</li>
+      
+     <li>历史系邀请北京师范大学侯树栋教授来我校做学术讲座<br />&nbsp;</li>
+      <li>教育系邀请山西省煤气化一幼教研主任郝彩婷来我校做学术讲座<br />&nbsp;</li></ul></div></td>
+ 
+  </tr>
+</table>
+</div>
+</div>
+</div>
+
+<div id="jiaodian">
+<div class="center1">
+  <p><img src="../images/logo/logo_jdgz.png" width="264" height="67" />
+  </p>
+  <div id="jdbackgroung">
+  <div id="picture1"><a href="http://lxyz.tynu.edu.cn/"><img src="../images/content_06.png" width="810" height="280" /></a></div>
+  <div id="picture2"><img src="../images/content_07.jpg" width="300" height="280" /></div>
+  <div id="picture3"><a href="http://dasai.lanqiao.cn/"><img src="../images/content_08.png" width="500" height="280" /></a></div>
+ <div id="picture4"> <img src="../images/content_09.jpg" width="380" height="570" /></div>
+ </div>
+</div>
+</div>
+
+<div id="shejiaomeiti">
+<div class="center1">
+
+  <p><img src="../images/logo/logo_sjmt.png" width="436" height="67" /></p>
+  <table width="1220" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="220" height="220"align="center"><img src="../images/content_10.jpg" width="180" height="180" /></td>
+      <td height="220"><img src="../images/logo/wxtb.jpg" width="32" height="28" />关于2017--2018学年第一学期期末考试相关安排的通知
+        <p>&nbsp;</p>
+        <p>2017--2018学年第一学期期末考试公共课程的考试时间在考务系统里已设置好，请各教学单位根据自己的实际情况安排专业课程的考试时间及地点（公共课由承担教学任务的教学单位做考试地点）。具体安排如下：</p>
+        <p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="../images/content_11.jpg" width="180" height="180" /></td>
+      <td><img src="../images/logo/wbtb.jpg" width="32" height="28" />第四届世界互联网大会在乌镇落下帷幕
+        <p>&nbsp;</p>
+        <p>中国国家互联网信息办公室主任徐麟在闭幕式上表示，中国国家主席习近平高度重视世界互联网大会，专门发来贺信，对大会的召开表示热烈的祝贺，对各位嘉宾表示诚挚的欢迎，并就进一步推进全球互联网发展与治理发表了重要主张，赢得了与会嘉宾的热烈反响和国际社会的广泛</p></td>
+    </tr>
+   
+  </table>
+  <p>&nbsp;</p>
+</div></div>
+<div id="video">
+<div class="center1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="66%"><video src="../video/video.mp4" width="806" height="500"controls="controls"></video></td>
+    <td width="34%"><img src="../images/content_12.png" width="407" height="460" /></td>
+  </tr>
+</table>
+</div></div>
+</div>
+
+<div id="footer">
+<div id="foot"><p align="center">
+作品名称：太原师范学院首页&nbsp;&nbsp;&nbsp;
+制作成员：201503班翟永基 张鑫<br/>
+联系方式：601814765@qq.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.11-2017.12</p></div>
+</div></div>
+
+
+
+</div>
+
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
