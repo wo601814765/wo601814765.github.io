@@ -1,0 +1,106 @@
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrap{
+	width:1920px;
+	overflow:hidden;
+
+}
+	
+#top {
+	font-size: 17px;
+	color: #FFF;
+	background-color: #0A356B;
+	width: 1560px;
+	text-align: right;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 360px;
+}
+	
+#top_logo {
+	background-color: #245086;
+	height: 175px;
+	width: 1920px;
+	background-image: url(../images/images/images/back_02_02.png);
+
+}	
+#wrap #header #top_logo img {
+	position: relative;
+	left: 350px;
+	top: 10px;
+	float:left;
+}
+#menu {
+	background-color: #EEE;
+	width: 1920px;
+	height: 40px;
+}
+#wrap #header #picture {
+	position: relative;
+	top: -55px;
+}
+
+.location {
+	height: 30px;
+	width: 1220px;
+}
+.loca {
+	font-size: 16px;
+}
+#zhongying{
+	width: 150px;
+	height: 200px;
+	background-color: #CCC;
+	padding-top: 10px;
+	padding-left: 10px;
+
+}
+#main {
+	width: 1220px;
+	word-wrap:break-word;
+	position: relative;
+    height: 1080;
+	top: 20px;}
+#center3 {
+	position:relative;
+		left: 350px;
+}
+.txt{
+	font-size:24px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:50px;}#wrap #content #allnotice .center1 .center2 table tr td table tr td div {
+	font-size: 14px;
+}
+#wrap #content #allnotice .center1 .center2 table tr td table tr td p {
+	font-size: 19px;
+}
+#wrap #content #allnotice .center1 .center2 table tr td span {
+	color: #00F;
+	font-size: 20px;
+}
+#wrap #content #allnotice .center1 .center2 table tr td {
+	font-size: 30px;
+}
+
+#wrap #content #allnotice .center1 .center2 table tr td table tr td #right {
+	font-size: 18px;
+	position:relative;
+	top:-20px;
+	float:right;
+}
+#wrap #center3 #main table tr td p {
+
+}
+#wrap #center3 #main table tr td span {
+	font-size: 36px;
+	color: #900;
+	padding-bottom: 20px;
+}
+#wrap #center3 #main table tr td img {
+	position: fixed;
+	top: 510px;
+}
